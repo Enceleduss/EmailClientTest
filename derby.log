@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jan 04 11:30:45 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0185-7b5e-2263-0000024da9e0 
+on database directory memory:/Users/sunilkumar/Downloads/email-client/0ee225b3-0e75-4c3b-9712-12ec164d1055 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/sunilkumar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=17.0.1+12-LTS
+user.dir=/Users/sunilkumar/Downloads/email-client
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
